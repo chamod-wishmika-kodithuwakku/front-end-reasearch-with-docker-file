@@ -1,0 +1,18 @@
+/* Add this to your CSS file, e.g., Login.css */
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f0f4f8; /* Optional: Background color */
+}
+
+.login-form {
+    width: 100%; /* Make it responsive */
+    max-width: 400px; /* Set a max-width for better appearance */
+    padding: 20px;
+    background-color: #ffffff; /* White background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
